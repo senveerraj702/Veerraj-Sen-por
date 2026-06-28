@@ -88,10 +88,11 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Full Stack Web Development</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I build fast, modern, and interactive websites from scratch.
+                From landing pages to full web apps — clean code, smooth
+                animations, and pixel-perfect UI is what I deliver.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -129,10 +130,11 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h4>UI/UX & 3D Design</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I create visually stunning designs with great user experience.
+                From wireframes to final design — every pixel is intentional,
+                every interaction is smooth.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">

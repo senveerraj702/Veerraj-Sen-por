@@ -6,9 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I'm Veerraj Sen, a passionate Freelance Web Developer with 1+ year of
+          experience building modern websites. I have successfully delivered
+          projects to 15+ Indian clients and 20+ international clients. I
+          specialize in React, Three.js, GSAP animations, and full-stack
+          development — creating experiences that are fast, beautiful, and
+          memorable.
         </p>
       </div>
     </div>
